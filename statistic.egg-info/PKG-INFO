@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: statistic
+Version: 1.0
+Summary: Mail server statistics
+Home-page: https://github.com/PochtyDendi/Mail_server_statistics
+Author: Kulikov Roman
+Author-email: Kulikov-roman@myrambler.ru
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
